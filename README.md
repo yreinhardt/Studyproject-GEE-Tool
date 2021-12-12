@@ -82,7 +82,7 @@ Select two single Images as right and left Image.
 
 ## Reclassification
 
-**1. Timeseries**
+**1. Reclassification**
 
 Reclassify single Image.
 
