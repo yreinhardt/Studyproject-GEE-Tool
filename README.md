@@ -2,7 +2,7 @@
 GEE-Tool for timeseries analysis
 
 
-### Data
+## Data
 
 **1. Selection of different Sentinel-5P Bands**
 
@@ -38,7 +38,7 @@ Default clip to boundary of China.
 
 Layer can be named. Name is used as identifier for further operations.
 
-### Operations
+## Operations
 
 **1. Spatial Statistics**
 
@@ -80,7 +80,7 @@ Creates a Splitview with Splitviewpanel.
 
 Select two single Images as right and left Image.
 
-### Reclassification
+## Reclassification
 
 **1. Timeseries**
 
@@ -97,7 +97,7 @@ Each class has a fixed color.
 *Return:* Image
 
 
-### Download
+## Download
 
 Image and Feature/FeatureCollection can be downloaded as GeoTiff and Geojson.
 
