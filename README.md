@@ -48,7 +48,7 @@ Pixelbased spatial statistics.
 
 Statistical measures:
 
-<code>Arithmetic Mean(HCHO)</code> 
+<code>Arithmetic Mean</code> 
 
 <code>Median</code> 
 
